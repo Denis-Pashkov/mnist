@@ -1,3 +1,3 @@
-tensorflow
-tensorflow_datasets
-keras
+tensorflow==2.17.0
+tensorflow_datasets==4.9.6
+keras==3.6.0
